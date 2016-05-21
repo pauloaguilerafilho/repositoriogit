@@ -1,1 +1,2 @@
-#Paulo Aguilera
+# Paulo Aguilera
+# UX Designer
